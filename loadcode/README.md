@@ -12,3 +12,7 @@ code2 https://github.com/pytorch/fairseq
 ```
 
 ## python script
+download zip of the sourse code by following command:
+```
+python3 loadcode.py code1206.txt
+```

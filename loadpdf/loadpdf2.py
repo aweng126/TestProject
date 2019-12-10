@@ -18,7 +18,7 @@ class pdfInfo(object):
         self.title = _title
         self.url = _url
     def selfInfo(self):
-        print("id: %s title: %s url: %s" %(self.id,self.title,self.url))
+        print("pdfInfo id: %s title: %s url: %s" %(self.id,self.title,self.url))
 
 def worker():
     while True:
@@ -72,7 +72,6 @@ def stopWorks():
 if __name__ == '__main__':
     # file name like paper1206.txt
     filename = sys.argv[1] 
-    maxThreadsNum = 10
     loadPdfInfo(filename)
     downloadPdfs(maxThreadsNum)
     stopWorks()

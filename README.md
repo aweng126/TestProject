@@ -6,3 +6,10 @@ this project will contain some shell script and python script to download pdf fi
 this project will contain some shell script and python script to download source code of github.
 ## mongotest project
 link to the mongodb database by the pymongo package
+
+## c++test
+just used to test specific c++ syntax
+
+
+## kuakua
+a kuakua bot used to learn docker

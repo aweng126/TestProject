@@ -15,4 +15,7 @@ just used to test specific c++ syntax
 a kuakua bot used to learn docker
 
 ## docker-gin
-a hello-world project built by docker and gin framework 
+a hello-world project built by docker and gin framework
+
+## git-workflow-demo
+A small Python command-line example and a [Chinese guide to the GitHub branch and PR workflow](git-workflow-demo/README.md).
